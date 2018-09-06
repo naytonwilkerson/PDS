@@ -13,7 +13,6 @@ import com.naytonwilkerson.cursomc.domain.Cidade;
 import com.naytonwilkerson.cursomc.domain.Cliente;
 import com.naytonwilkerson.cursomc.domain.Endereco;
 import com.naytonwilkerson.cursomc.domain.Estado;
-import com.naytonwilkerson.cursomc.domain.IntemPedidoPK;
 import com.naytonwilkerson.cursomc.domain.ItemPedido;
 import com.naytonwilkerson.cursomc.domain.Pagamento;
 import com.naytonwilkerson.cursomc.domain.PagamentoComBoleto;
