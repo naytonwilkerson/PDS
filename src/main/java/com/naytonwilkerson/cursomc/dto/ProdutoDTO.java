@@ -12,7 +12,6 @@ public class ProdutoDTO implements Serializable {
 	private Double preco;
 	
 	public ProdutoDTO() {
-		super();
 	}
 	
 	public ProdutoDTO(Produto obj) {
